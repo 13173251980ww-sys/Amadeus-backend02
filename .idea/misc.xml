@@ -11,8 +11,9 @@
         <option value="$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/pom.xml" />
         <option value="$PROJECT_DIR$/Amadeus_backend/amadeus-pojo/pom.xml" />
         <option value="$PROJECT_DIR$/amadeus-pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/amadeus-utils/pom.xml" />
         <option value="$PROJECT_DIR$/amadeus-web-management/pom.xml" />
+        <option value="$PROJECT_DIR$/amadeus-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/amadeus-parent/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

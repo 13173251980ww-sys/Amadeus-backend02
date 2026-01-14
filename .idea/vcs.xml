@@ -6,6 +6,6 @@
     <mapping directory="$PROJECT_DIR$/aliyun-oss-spring-boot-starter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/amadeus-pojo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/amadeus-utils" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/amadeus-wen-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amadeus-web-management" vcs="Git" />
   </component>
 </project>
